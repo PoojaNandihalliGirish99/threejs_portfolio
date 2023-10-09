@@ -212,7 +212,7 @@ import {
         },
       ],
       image: heitrello,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/PoojaNandihalliGirish99/hei_trello",
     },
     {
       name: "In Vouge",
@@ -233,7 +233,7 @@ import {
         },
       ],
       image: invouge,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/PoojaNandihalliGirish99/in_vouge",
     },
     {
       name: "Admin Dashboard",
@@ -258,7 +258,7 @@ import {
         },
       ],
       image: admindash,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/PoojaNandihalliGirish99/admin_dashboard",
     },
   ];
   
